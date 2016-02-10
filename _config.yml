@@ -1,0 +1,28 @@
+name: Centrifuged
+favicon: null
+layout_spectrum: 0.6418526214547455
+typography_spectrum: 0.6474468775559217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9538546425756067
+  lightness: 0.7383629863616079
+  saturation: 0.2733512823469937
+  rhythmicContrast: 0.05636655259877443
+purpose: []
